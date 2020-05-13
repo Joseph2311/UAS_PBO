@@ -1,0 +1,65 @@
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.exe.config
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.exe
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.pdb
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csprojAssemblyReference.cache
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form1.resources
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form2.resources
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form3.resources
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Properties.Resources.resources
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csproj.GenerateResource.cache
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.exe
+E:\tugas koko\SEMESTER 2\pbo\UAS_PBO\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.pdb
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\dataAkun.mdf
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\dataAkun_log.ldf
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.exe.config
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.exe
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.pdb
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.dll
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.xml
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csprojAssemblyReference.cache
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form1.resources
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form2.resources
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form3.resources
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Properties.Resources.resources
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csproj.GenerateResource.cache
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csproj.CopyComplete
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.exe
+C:\Users\Kisbayu\Downloads\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.pdb
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\dataAkun.mdf
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\dataAkun_log.ldf
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.exe.config
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.exe
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.pdb
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.dll
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.SqlServer.dll
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.xml
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.SqlServer.xml
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csprojAssemblyReference.cache
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form1.resources
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form2.resources
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form3.resources
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Properties.Resources.resources
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csproj.GenerateResource.cache
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csproj.CopyComplete
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.exe
+E:\latihan pemrograman\pbo 2\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.pdb
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\dataAkun.mdf
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\dataAkun_log.ldf
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.exe.config
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.exe
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\UAS_PBO.pdb
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.dll
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.xml
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csprojAssemblyReference.cache
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form1.resources
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form2.resources
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Form3.resources
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.Properties.Resources.resources
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csproj.GenerateResource.cache
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.csproj.CopyComplete
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.exe
+C:\Users\Kisbayu\Documents\UAS_PBO\UAS_PBO\obj\Debug\UAS_PBO.pdb
